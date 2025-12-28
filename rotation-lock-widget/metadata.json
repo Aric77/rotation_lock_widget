@@ -1,0 +1,12 @@
+{
+  "KPlugin": {
+    "Id": "com.aric.rotationlock",
+    "Name": "Rotation Lock",
+    "Description": "Toggle auto-rotation (Wayland)",
+    "Icon": "object-locked",
+    "Category": "System Information",
+    "Version": "1"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}
